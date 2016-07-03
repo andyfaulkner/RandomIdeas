@@ -1,0 +1,36 @@
+.myBody {
+    background-color:#819b9a;
+    opacity: 0.85;
+    margin-left: 10px;
+}
+
+.container.myContainer {
+    font-family: 'Roboto', sans-serif;
+    font-size: 'large';
+    color: azure;
+}
+
+.jumbotron.myTitle {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: azure;
+    opacity: 1;
+    background-color:inherit;
+    opacity: 0.85;
+}
+
+.myButton {
+    color: black;
+}
+
+.myInput {
+    color: black;
+}
+
+.col-sm-8.leftAlign {
+    text-align: left;
+}
+
+.subHeading {
+    font-size: x-large;
+}
